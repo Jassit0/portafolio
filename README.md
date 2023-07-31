@@ -6,27 +6,13 @@ El propósito de esta página web es mostrar el portafolio de proyectos de un(a)
 
 También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
-### Capturas de pantalla:
+## Secciones:
 
-Primera parte de la página web:
-
-![Primera parte de la página web](imagenes/screenshot1.png)
-
-Experiencia:
-
-![Experiencia](imagenes/screenshot2.png)
-
-Proyectos:
-
-![Proyectos](imagenes/screenshot3.png)
-
-Testimonios:
-
-![Testimonios](imagenes/screenshot4.png)
-
-Contacto:
-
-![Contacto](imagenes/screenshot5.png)
+* Navegador con menú desplegable
+* Experiencia como desarrolladora web y estudios
+* Proyectos realizamos recientemente
+* Testimonios de clientes y mentoras
+* Contacto
 
 ## Tecnologías
 
